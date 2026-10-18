@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "unimas",
+  "source_name": "Pejabat Perpustakaan, Penyiaran dan Penerbitan (Universiti Malaysia Sarawak)",
+  "source_base_url": "https://petaryils.unimas.my/",
+  "terms_url": "https://www.library.unimas.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "unimas-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T14-25-06Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T15:14:29.475Z",
+  "finished_at": "2026-10-18T15:14:29.475Z",
+  "record_count": 10000,
+  "error_count": 350,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/unimas; contact@pustakaterbuka.org)",
+  "notes": "UNIMAS harvest completed. Total: 10000 records."
+}
